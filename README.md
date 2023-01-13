@@ -1,0 +1,1 @@
+#CSS ile margin,padding özelliklerine başlangıç olarak Google.com'un eski bir sürümünü hazırladım

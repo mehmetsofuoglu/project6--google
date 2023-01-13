@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    }
+p{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+
+
+.genisblok {
+    background-color: rgb(238, 238, 238);
+    margin: 0 70px;
+
+}
+
+.ilkblok{
+   width: 424px;
+    float: left;
+    padding: 10px;
+    margin:2px 1px 1px 70px ;
+    height: 56px;
+    
+    
+}
+
+.ikinciblok{
+    width: 220px;
+    float: left;
+    height: 64px;
+    padding: 6px;
+    margin:2px 1px auto 1px ;
+}
+
+.ucuncublok{
+    width: 526px;
+    float: left;
+    height: 72px;
+    padding: 2px;
+    margin:2px 1px auto 1px ;
+}
+
+
+.bg-red {
+    background:rgb(129, 229, 218) ;
+}
+
+.bg-blue {
+    background-color: rgb(112, 203, 194);
+}
+.bg-gray{
+    background: rgb(98, 179, 170);
+}
+.text-sml{
+    font-size: small;
+}
